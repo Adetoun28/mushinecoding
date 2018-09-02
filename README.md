@@ -1,5 +1,5 @@
 # mushinecoding
-<doctype html>
+<!doctype html>
   <html>
     <head>
       <title> web page </title>
